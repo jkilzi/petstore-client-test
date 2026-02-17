@@ -1,1 +1,1 @@
-# planner-sdk
+# petshop-client-sdk
